@@ -1,0 +1,7 @@
+matplotlib
+soundfile
+librosa
+torch
+torchlibrosa
+ffmpeg
+pydub
