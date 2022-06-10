@@ -10,7 +10,7 @@ Most existing works of audio classification see the data as a temporal sequence.
 
 + Explored different CNN-based methods of bird sound classification[1] based on audio spectrogram, and also enhanced the model with attention mechanism.
 + Studied the influence of different hyperparameters;
-+ Achieved a 58.76% mAP and 93.27% AUC a subset of a birdcall dataset.
++ Achieve a 60.4% test mAP and 94.5% test AUC on a subset of Cornell birdcall dataset using the attention-enhanced CNN model.
 
 
 ## How to run the codes
